@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenfong2021
 - 👀 I’m interested in c#
-- 🌱 I’m currently learning Angular 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Blazor 
+- 💞️ I’m looking to collaborate on .net core
 - 📫 How to reach me kfong1764@gmail.com 
 
 <!---
